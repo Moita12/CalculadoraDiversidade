@@ -1,1 +1,4 @@
-# CalculadoraDiversidade
+- [x] Li e realizei a devida compreensão da atividade que à mim foi proposta, dentre tais condições me estabeleci metas e fórmulas de realiza-la devidamente.
+- [x] Usei de Base o meu antigo projeto flutter onde havia construções de uma calculadora de moedas diferentes.
+- [x] mudei diversas variáveis e condições que melhor se adaptassem ao meu novo projeto gay.
+- [x] terminei.
